@@ -26,7 +26,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 A quick rundown of this config file and story behind it.
 
-The power of CRA is in its `react-scripts`. There are solutions that allow extending the `webpack.config.js` file to roll custom solutions but as of Sept 2022. There is only fledging support for `react scripts v5`. To maintain the usefulness that `react-scripts` working with `nextJS` was the ideal solution as it allows extending its functionally by default.
+The power of CRA is in its `react-scripts`. There are solutions that allow extending the `webpack.config.js` file to roll custom solutions but as of Sept 2022, There is only fledging support for `react scripts v5`. To maintain the usefulness that `react-scripts` working with `nextJS` was the ideal solution as it allows extending its functionally by default.
 
 ### Moving on to the `config`
 
